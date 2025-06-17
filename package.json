@@ -1,7 +1,6 @@
 {
   "name": "Entregable1Schvemler",
   "version": "1.0.0",
-  "description": "",
   "main": "node-server-http.js",
   "dependencies": {
     "express": "^5.1.0"
@@ -20,5 +19,6 @@
   "bugs": {
     "url": "https://github.com/schvemler/Entregable1Schvemler/issues"
   },
-  "homepage": "https://github.com/schvemler/Entregable1Schvemler#readme"
+  "homepage": "https://github.com/schvemler/Entregable1Schvemler#readme",
+  "description": ""
 }
